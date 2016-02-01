@@ -1,4 +1,5 @@
 1. What is []?
+Brackets define a list.
 
 2. How would you assign the value 'hello' as the third value in a list stored in a variable named spam? (Assume spam contains [2, 4, 6, 8, 10].)
 
